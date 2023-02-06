@@ -6,3 +6,6 @@ CREATE TABLE nomnom (
     price TEXT, 
     health TEXT
 )
+
+
+
